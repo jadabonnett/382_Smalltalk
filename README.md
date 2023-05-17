@@ -13,5 +13,5 @@ Created numerous new classes which included:
 **graphFrom:graphTo:** - plots polymoial over given range
 
 ## Usability ##
-I used this in an enviroment called Pharo in which then in testing of the new classes you were able to 'call' these by using the below.
+I used an enviroment called Pharo in which then in testing of the new classes you were able to 'call' these by using the workspace. In order to run/test these new classes I made, you can use import the Polynomial.st file, and then the workspace file has the various tests for this problem in there. 
 
